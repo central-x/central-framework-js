@@ -1,0 +1,24 @@
+{
+  "name": "@centralx/http",
+  "version": "0.1.0",
+  "description": "Http for js",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/central-x/central-framework-js.git",
+    "directory": "packages/@centralx/http"
+  },
+  "keywords": [
+    "centralx",
+    "http"
+  ],
+  "author": "Alan Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/central-x/central-framework-js/issues"
+  },
+  "homepage": "https://github.com/central-x/central-framework-js#readme"
+}

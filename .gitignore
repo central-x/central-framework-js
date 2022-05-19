@@ -1,0 +1,17 @@
+# OS X
+.DS_Store
+
+# Node
+node_modules
+design
+*.log
+packages/test
+temp
+.vuerc
+.version
+.versions
+.changelog
+package-lock.json
+
+# VSCode
+.vscode
