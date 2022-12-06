@@ -1,0 +1,36 @@
+{
+  "name": "@centralx/stdlib",
+  "version": "0.1.0",
+  "description": "Central Standard Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Yeh",
+  "contributors": [
+    "Alan Yeh (https://github.com/alan-yeh)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "centralx",
+    "stdlib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/central-x/central-framework-js.git",
+    "directory": "packages/@centralx/http"
+  },
+  "bugs": {
+    "url": "https://github.com/central-x/central-framework-js/issues"
+  },
+  "homepage": "https://github.com/central-x/central-framework-js#readme",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
